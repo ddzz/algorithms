@@ -9,3 +9,5 @@ Quicksort
 Merge sort
 
 Dijkstra's algorithm
+
+Rolling median calculation
