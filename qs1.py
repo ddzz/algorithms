@@ -1,6 +1,6 @@
 # Python quicksort implementation
 # O(nlog(n)) running time
-# This algorithm uses the first element of each subarray as the pivot element
+# This implementation uses the first element of each subarray as the pivot element
 
 counter = 0
 
