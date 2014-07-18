@@ -38,5 +38,4 @@ array = []
 for line in open('qs.txt','r').readlines():	
 	array.append(int(line))
 
-print len(array)
 print quicksort(array,0,len(array))
