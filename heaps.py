@@ -1,5 +1,5 @@
 # This algorithm calculates the sum of the rolling median of a
-# stream of integers using a min heap and max heap to reduce
+# stream of integers. A min heap and max heap are used to reduce
 # the running time of the algorithm.
 
 from heapq import heappush, heappop
