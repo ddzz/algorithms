@@ -1,4 +1,5 @@
 # Recursive binary search algorithm
+# Searches a sorted array for a given key
 
 def binarySearch(array, key):
     if len(array) == 1 and array[0] != key:
