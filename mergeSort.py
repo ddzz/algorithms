@@ -1,5 +1,5 @@
 # Recursive merge sort algorithm
-# O(nlogn) run time
+# O(nlogn) running time
 
 
 def mergeSort(array):
